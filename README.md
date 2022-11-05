@@ -30,4 +30,15 @@ Results:
 
 • 14x improvement for n = 8 achieved through heuristic in MIP
 
+SAT
+
 ![image](https://user-images.githubusercontent.com/72302800/200106795-5dc58a51-65c4-431b-8bf1-3cb2f143c92b.png)
+
+MIP
+
+![image](https://user-images.githubusercontent.com/72302800/200106827-295e80e1-5517-4ebf-828d-84eb75ca5975.png)
+
+CP
+
+![image](https://user-images.githubusercontent.com/72302800/200106840-606d310a-362c-4184-8766-58860f311e8c.png)
+
